@@ -109,9 +109,9 @@ conference:
         relative_url: /vortraege/
       - name: Speakers
         relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Previous Editions
+      - name: Anreise
+        relative_url: /ort/
+      - name: Vergangene EnviroChange
         menu:
           - name: 2024 (current)
             disabled: true
@@ -128,7 +128,7 @@ conference:
       - name: Programm
         relative_url: /programm/
       - name: Veranstaltungsort
-        relative_url: /location/
+        relative_url: /ort/
       
 
   # Information boxes
@@ -192,10 +192,10 @@ conference:
   location:
     # Disable links to locations
     hide: false
-    # URL of location / room overview page
-    url: '/location'
+    # URL of ort/ room overview page
+    url: '/ort'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: 'Anreise'
     # Show map on location main page
     map: true
 
