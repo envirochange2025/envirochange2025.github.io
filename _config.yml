@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Envirochange24
+title: EnviroChange2024
 preposition: '-' # Das wird benutzt um automatische Titel für Vorträge mit dem Konferenznamen zu generieren. Also z.B. "Vortrag X von Y [preposition] Envirochange24".
 email: your-email@example.com # TODO
 description: >- # this means to ignore newlines until "baseurl:"
@@ -62,7 +62,7 @@ sass:
 collections:
   talks:
     output: true
-    permalink: /:collection/:title/
+    permalink: /vortraege/:title/
   speakers:
     output: true
     permalink: /:collection/:title/
@@ -103,41 +103,53 @@ conference:
       # img: ''
       # url: 'https://digitale-gesellschaft.ch/'
     links:
-      - name: Program
-        relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
+      - name: Programm
+        relative_url: /programm/
+      - name: Vorträge
+        relative_url: /vortraege/
       - name: Speakers
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
       - name: Previous Editions
         menu:
-          - name: 2020 (current)
+          - name: 2024 (current)
             disabled: true
           - name: 2023
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2023'
+          - name: 2022
+            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2022'
 
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Programm
+        relative_url: /programm/
+      - name: Veranstaltungsort
+        relative_url: /location/
+      
 
   # Information boxes
-  info_bars:
-    - title: Welcome to the Conference Theme for Jekyll!
-      color: primary
-      main_only: true
-      text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+  # info_bars:
+  #   - title: Welcome to the Conference Theme for Jekyll!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
 
-        ---
+  #       ---
 
-        See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
-      pages_only: true
+  #       See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #   - text: This is just some random content for demonstration purposes.
+  #     color: warning
+  #     pages_only: true
 
 
   # Live indications
   live:
-    date: 01.01.2024
+    date: 09.02.2024
     timezone: GMT+1
     stop:       240  # in minutes
     streaming:
@@ -189,7 +201,7 @@ conference:
 
   program:
     # URL of program page
-    url: '/program'
+    url: '/programm'
 
     # Time steps in program table
     time_steps: 15 # in minutes
