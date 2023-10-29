@@ -4,4 +4,11 @@ layout: page
 ---
 
 
-Hier sollte das Impressum stehen
+Hier sollte das Impressum stehen.
+
+
+Bereitgestellt von:
+
+Urheberrechts- und Haftungshinweise:
+
+Kontakt:

@@ -4,4 +4,6 @@ layout: page
 ---
 
 
-Hier sollte die Datenschutzerklärung stehen
+Hier sollte die Datenschutzerklärung stehen.
+
+"Wir sammeln keine Daten"
