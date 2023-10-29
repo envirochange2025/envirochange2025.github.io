@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Am 9. Februar 2024 wird die 14. EnviroChange stattfinden, für einen spannenden Austausch über Umweltthemen und Klimawandel mit Studierenden und Gästen aus Wissenschaft und Praxis.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://enviro24.uber.space" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://envirochange.world" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-conference
