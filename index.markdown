@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hier befinden sich alle Informationen zur kommenden EnviroChange am 9. Februar 2024!
+Auf diesen Seiten finden sich alle Informationen über die Vorträge und unsere Gäste. 
