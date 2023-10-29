@@ -1,16 +1,16 @@
 ---
-name: Arcu Non Odio
+name: Ein Beispiel mit recordnig Link
 speakers:
   - Alex Rosales
 categories:
-  - Cat A
-  - Talk
+  - Studierende
+  - LightningTalk
 links:
   - name: Recodring
     icon: video
     absolute_url: https://media.ccc.de/
   - name: Wikipedia
-    absolute_url: https://en.wikipedia.org
+    absolute_url: https://en.wikipedia.org  
 ---
 
 Duis at tellus at urna condimentum mattis pellentesque id nibh. In fermentum et sollicitudin ac orci phasellus egestas. Convallis aenean et tortor at risus viverra. Mus mauris vitae ultricies leo integer. Metus dictum at tempor commodo ullamcorper. Sem nulla pharetra diam sit. Eu lobortis elementum nibh tellus molestie nunc.

@@ -180,10 +180,11 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
-        color: info
-      - name: Cat B
+      - name: Gäste
         color: success
+      - name: Studierende
+        color: info
+
 
     # Hide icons on talk overview page
     hide_icons: false

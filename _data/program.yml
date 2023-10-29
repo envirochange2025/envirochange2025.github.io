@@ -3,23 +3,20 @@ days:
   abbr: Mo
   date: 2020-01-31
   rooms:
-  - name: Room A
+  - name: Hörsaal Geographie
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
+      - name: Gastvortrag 1
+        time_start: '10:00'
+        time_end: '10:45'
+      - name: Gastvortrag 2
         time_start: '12:45'
         time_end: '13:30'
+      - name: Begrüßung und Eröffnung
+        time_start: '9:00'
+        time_end: '9:10'  
 
-  - name: Room B
+  - name: Foyer
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+      - name: Posterausstellung
+        time_start: '9:30'
+        time_end: '16:30'
