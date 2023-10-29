@@ -5,4 +5,4 @@
 layout: home
 ---
 
-was anderes
+Hier befinden sich alle Informationen zur kommenden EnviroChange am 9. Februar 2024!
