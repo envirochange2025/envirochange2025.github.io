@@ -123,6 +123,12 @@ conference:
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2023'
           - name: 2022
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2022'
+          - name: 2021
+            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2021'
+          - name: 2020
+            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2020'
+          - name: 2018
+            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2018'
 
   # Main landing page
   main:
