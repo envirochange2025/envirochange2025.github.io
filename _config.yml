@@ -94,7 +94,7 @@ conference:
   lang: de
 
   # Show theme errors:
-  show_errors: False
+  show_errors: True
 
   # Navigation bar
   navigation:
