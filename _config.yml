@@ -101,9 +101,9 @@ conference:
 
   # Navigation bar
   navigation:
-    # logo:
-      # name: Digital Society Switzerland
-      # img: ''
+    logo:
+      # name: Envirochange
+      img: 'logo_nav.png'
       # url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Programm
@@ -125,8 +125,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+      img: 'logo_main.png'
     links:
       - name: Programm
         relative_url: /programm/
