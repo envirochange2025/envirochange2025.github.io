@@ -103,7 +103,7 @@ conference:
   navigation:
     logo:
       # name: Envirochange
-      img: 'logo_nav.png'
+      img: 'Enviro_change_logo_2023.png'
       # url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Programm
@@ -126,7 +126,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'logo_main.png'
+      img: 'Enviro_change_logo_2023.png'
     links:
       - name: Programm
         relative_url: /programm/

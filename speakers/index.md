@@ -2,4 +2,4 @@
 layout: speaker-overview
 ---
 
-dsaasdf ghtyfrdeghtjkl
+Hier werden die Vortragenden vorgestellt
