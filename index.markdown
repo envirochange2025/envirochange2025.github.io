@@ -5,4 +5,5 @@
 layout: home
 ---
 
+Die EnviroChange wird jährlich von Masterstudierenden im Studiengang "Umweltgeographie und -management" an der CAU Kiel organisiert. Sie bietet eine Plattform, sich mit Studierenden und Gästen aus Forschung und Praxis über den aktuellen Stand der Forschung sowie Anpassungsmaßnahmen an veränderte Umweltbedingungen auszutauschen.   
 Auf diesen Seiten finden sich alle Informationen über die Vorträge und unsere Gäste. 
