@@ -5,15 +5,18 @@ days:
   rooms:
   - name: Hörsaal Geographie
     talks:
+      - name: Begrüßung und Eröffnung
+        time_start: '9:00'
+        time_end: '9:15'
       - name: Gastvortrag 1
         time_start: '10:00'
         time_end: '10:45'
       - name: Gastvortrag 2
         time_start: '12:45'
         time_end: '13:30'
-      - name: Begrüßung und Eröffnung
-        time_start: '9:00'
-        time_end: '9:10'  
+      - name: Schlusswort
+        time_start: '17:00'
+        time_end: '17:15'  
 
   - name: Foyer
     talks:
