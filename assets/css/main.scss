@@ -5,3 +5,7 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 
 @import 'conference';
 @import 'footer';
+
+.navbar-brand.navbar-logo img {
+	max-height: 5ex;
+}
