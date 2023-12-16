@@ -73,6 +73,10 @@ collections:
   footer_items:
     output: true
     permalink: /:name/
+  sponsoren:
+    output: true
+    permalink: /:collection/:name/
+
 
 defaults:
   - scope:
@@ -104,7 +108,7 @@ conference:
   navigation:
     logo:
       # name: Envirochange
-      img: 'Enviro_change_logo_2024.png'
+      img: 'Logo_EnviroChange_gruen_klein.png'
       # url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Programm
@@ -115,6 +119,8 @@ conference:
         relative_url: /speakers/
       - name: Anreise
         relative_url: /ort/
+      - name: Sponsoren
+        relative_url: /sponsoren/
       - name: Vergangene EnviroChange
         menu:
           - name: 2024 (current)
@@ -133,7 +139,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'Enviro_change_logo_2024.png'
+      img: 'Logo_EnviroChange+Schrift_Seite_mitte.png'
     links:
       - name: Programm
         relative_url: /programm/
