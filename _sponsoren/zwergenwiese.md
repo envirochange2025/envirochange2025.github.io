@@ -1,4 +1,4 @@
 ---
 name: "Zwergenwiese"
-logo: "Logo.png"
+logo: "Zwergenwiese_logo.jpg"
 ---
