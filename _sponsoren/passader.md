@@ -1,4 +1,4 @@
 ---
-name: "Zwergenwiese"
-logo: "Zwergenwiese_logo.jpg"
+name: "Passader Backhaus"
+logo: "Passader_Logo_RGBjpg.jpg"
 ---
