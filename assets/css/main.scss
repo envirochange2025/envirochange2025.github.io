@@ -9,3 +9,9 @@ $fa-font-path: '{{ site.baseurl }}/assets/webfonts';
 .navbar-brand.navbar-logo img {
 	max-height: 5ex;
 }
+
+main.container img.sponsor_logo {
+	float: left;
+	width: 40%;
+	margin: 5%;
+}

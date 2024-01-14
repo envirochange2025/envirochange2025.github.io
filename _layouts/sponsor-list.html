@@ -9,16 +9,13 @@
 {{ content }}
 
 <div class="sponsor-list">
-	<ul>
 		{% for sponsor in site.sponsoren %}
-		<li>
-			<h6>{{ sponsor.name }}</h6>
+
 			<img src="/assets/images/sponsor_logos/{{ sponsor.logo }}" 
-				 alt="Logo of {{ sponsor.name }}"/>
-			
-		</li>
+				 alt="Logo von {{ sponsor.name }}"
+				 title="{{ sponsor.name }}"
+				 class="sponsor_logo"/>
   		{% endfor %}
-  	</ul>
 </div>
 
 {% include partials/footer.html %}
