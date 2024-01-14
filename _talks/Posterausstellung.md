@@ -1,5 +1,5 @@
 ---
-name: Posterausstellung
+name: Poster und Diskussion
 speakers:
   - UGM Studierende
 categories:

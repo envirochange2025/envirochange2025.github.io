@@ -1,4 +1,4 @@
 ---
 name: "Brotgarten"
-logo: "Logo.png"
+logo: "Brotgarten.png"
 ---
