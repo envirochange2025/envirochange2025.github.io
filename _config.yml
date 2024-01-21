@@ -187,6 +187,8 @@ conference:
       - name: Studierende
         color: info
       - name: Moderation
+        color: primary
+      - name: Pause
         color: light
 
 

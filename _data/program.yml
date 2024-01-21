@@ -15,17 +15,20 @@ days:
         time_start: '10:15'
         time_end: '10:45'
       - name: Vortragsblock 2 - Wälder
-        time_start: '11:15'
-        time_end: '12:00'
+        time_start: '11:00'
+        time_end: '11:45'
+      - name: Mittagspause
+        time_start: '12:00'
+        time_end: '13:00'
       - name: Gastvortrag 2
-        time_start: '13:00'
-        time_end: '13:30'
+        time_start: '13:15'
+        time_end: '13:45'
       - name: Vortragsblock 3 - Biodiversität
-        time_start: '13:45'
-        time_end: '14:30'
+        time_start: '14:00'
+        time_end: '14:45'
       - name: Vortragsblock 4 - Klimamobilität und Klimaanpassung
-        time_start: '14:45'
-        time_end: '15:30'
+        time_start: '15:00'
+        time_end: '15:45'
       - name: Schlusswort
         time_start: '16:00'
         time_end: '16:15'  
