@@ -115,7 +115,7 @@ conference:
         relative_url: /programm/
       - name: Vorträge
         relative_url: /vortraege/
-      - name: Speakers
+      - name: Gäste
         relative_url: /speakers/
       - name: Anreise
         relative_url: /ort/
@@ -130,7 +130,7 @@ conference:
           - name: 2022
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2022'
           - name: 2021
-            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2021'
+            absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/copy_of_envirochange2020'
           - name: 2020
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2020'
           - name: 2018
