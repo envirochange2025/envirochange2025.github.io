@@ -11,7 +11,7 @@ days:
       - name: Vortragsblock 1 - Boden und Wasser
         time_start: '9:15'
         time_end: '10:00'
-      - name: Gastvortrag 1
+      - name: Gastvortrag - Merlin Michaelis, BUND
         time_start: '10:15'
         time_end: '10:45'
       - name: Vortragsblock 2 - Wälder
