@@ -5,4 +5,4 @@ categories:
   - Pause
 ---
 
-Begrüßung durch Studierende des Studiengangs Umweltgeographie und -management mit einem Grußwort von Prof. Ingmar Unkel.
+In der Mittagspause besteht die Möglichkeit, in die Mensa zu gehen
