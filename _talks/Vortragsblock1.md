@@ -8,7 +8,7 @@ categories:
 ---
 
 #### Die Zunehmenden Auswirkungen von Dürre in Südafrika - Reaktionsstrategien von Kleinbäuer:innen
-
+*Johannes Kalm, Helena Koberg*
 
 
 #### Europäische Hochwasserereignisse und nachhaltige Hochwasserschutzkonzepte
