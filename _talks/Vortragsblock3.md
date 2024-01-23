@@ -1,5 +1,5 @@
 ---
-name: Vortragsblock 3 - Biodiversität
+name: Lightning Talks - Biodiversität
 speakers:
   - Studierende UGM
 categories:

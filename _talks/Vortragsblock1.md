@@ -1,5 +1,5 @@
 ---
-name: Vortragsblock 1 - Boden und Wasser
+name: Lightning Talks - Boden und Wasser
 speakers:
   - Studierende UGM
 categories:

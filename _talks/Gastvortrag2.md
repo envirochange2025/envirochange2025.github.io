@@ -1,7 +1,7 @@
 ---
 name: Gastvortrag 2
 speakers:
-  - Gast2
+  - Dr. John Rapaglia
 categories:
   - Gäste
   - Vortrag

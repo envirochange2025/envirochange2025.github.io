@@ -1,5 +1,5 @@
 ---
-name: Vortragsblock 4 - Klimamobilität und Klimaanpassung
+name: Lightning Talks - Klimamobilität und Klimaanpassung
 speakers:
   - Studierende UGM
 categories:

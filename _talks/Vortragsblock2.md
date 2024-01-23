@@ -1,5 +1,5 @@
 ---
-name: Vortragsblock 2 - Wälder
+name: Lightning Talks - Wälder
 speakers:
   - Studierende UGM
 categories:
