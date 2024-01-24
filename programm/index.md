@@ -3,4 +3,7 @@ layout: program
 ---
 
 Die Zeiten der einzelnen Vorträge können sich noch verschieben.
-In den Pausen zwischen den Vortragsblöcken am Vor- und Nachmittag wird im Foyer ein kleines Buffet mit Kaffee und Tee bereit stehen.
+
+Während der Pausen am Vor- und Nachmittag wird ein kleines Buffet bereit stehen. Wir laden alle zu einem Austausch über Vorträge und Poster bei einer Tasse Kaffee oder Tee im Foyer ein. 
+
+Das [Geologische und Mineralogische Museum](https://www.ifg.uni-kiel.de/de/einrichtungen/museum) wird von 9-16 Uhr geöffnet sein und bietet die Möglichkeit, sich ergänzend zu den Vortragsthemen mit vergangenen Umweltveränderungen zu beschäftigen. 

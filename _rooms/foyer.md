@@ -2,4 +2,4 @@
 name: Foyer
 ---
 
-Der Flur vor dem Geohörsaal.
+Der Flur zwischen dem Hörsaal der Geographie und dem Geologischen und Mineralogischen Museum.

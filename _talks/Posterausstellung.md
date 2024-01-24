@@ -1,10 +1,9 @@
 ---
-name: Poster und Diskussion
+name: Posterausstellung
 speakers:
   - UGM Studierende
 categories:
   - Studierende
-  - Posterausstellung
 ---
 
 Poster zu den Kurzvorträgen werden den ganzen Tag über im Foyer ausgestellt sein. 
