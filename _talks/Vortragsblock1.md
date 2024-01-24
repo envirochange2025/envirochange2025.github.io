@@ -12,8 +12,8 @@ categories:
 
 
 #### Europäische Hochwasserereignisse und nachhaltige Hochwasserschutzkonzepte
-
+*Camilla Löhden, Annika Adams*
 
 
 #### Klimawandelauswirkungen auf Flusssysteme - Fallstudie zu Donau und Mekong
-
+*Pauline Fasse, Monty Neumann*

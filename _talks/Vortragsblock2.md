@@ -15,5 +15,5 @@ In den letzten Jahrzehnten ist in Deutschland ein Anstieg von Waldschäden, insb
 
 
 #### Kanadas Waldbrandsaison 2023: (Neue) Management- Strategien bei wachsenden Herausforderungen
-
+*Jule Kittel, Johannes von Bredow*
 

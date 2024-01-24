@@ -8,6 +8,7 @@ categories:
 ---
 
 #### Wirkungen von Landnutzungs- und Klimawandel auf die Biodiversität am Beispiel der Lemuren im Feuchtwald Madagaskars
+*Friederike von Zastrow, Maximilian Dunkel*
 
 
 

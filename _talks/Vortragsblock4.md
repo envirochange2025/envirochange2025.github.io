@@ -9,7 +9,7 @@ categories:
 
 
 #### Out of Afghanistan. Ursachenanalyse für die Klimamobilität Afghanistans
-
+*Helena Killing*
 
 
 #### Herausforderungen und Potenziale von Agrophotovoltaik in Deutschland
@@ -19,4 +19,5 @@ Agrophotovoltaik hat als eine innovative Methode der erneuerbaren Energie zwar i
 
 
 #### Urbane Grünflächen und ihre Bedeutung für die Optimierung des städtischen Kühleffekts: Ein umfassender Überblick der Strategien
+*Clara Ilsemann, Marek Büchler*
 
