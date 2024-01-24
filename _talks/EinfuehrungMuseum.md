@@ -7,4 +7,4 @@ categories:
   - Gäste
 ---
 
-Der Leiter des Geologischen und Mineralogischen Museums in Kiel, Dr. Matthias Alberti, wird eine EInführung in das Museum geben. Das [Museum](https://envirochange.world/rooms/museum/) wird während der Veranstaltung geöffnet sein.
+Der Leiter des Geologischen und Mineralogischen Museums in Kiel, Dr. Matthias Alberti, wird eine Einführung in das Museum geben. Das [Museum](https://envirochange.world/rooms/museum/) wird während der Veranstaltung geöffnet sein.

@@ -7,4 +7,4 @@ links:
     absolute_url: https://www.geog.uni-heidelberg.de/institut/unkel.html
 ---
 
-Ingmar Unkel ist Professor für Umweltgeschichte, Direktor des Instituts für Ökosystemforschung der Christian-Albrechts-Universität zu Kiel. 
+Ingmar Unkel ist Professor für Umweltgeschichte und Direktor des Instituts für Ökosystemforschung der Christian-Albrechts-Universität zu Kiel. 
