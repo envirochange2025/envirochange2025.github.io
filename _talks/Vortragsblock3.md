@@ -12,7 +12,7 @@ categories:
 
 Die aktuelle Aussterberate und Anzahl der vom Aussterben bedrohten Arten ist besorgniserregend. Wir befinden uns in einer Biodiversitätskrise, die hauptsächlich durch den menschlichen Landnutzungswandel verursacht wird. Hinzu kommt die Klimakrise, welche in der Zukunft negative Effekte auf die Biodiversität verstärken wird. Anhand der Artengruppe Lemuriformes (Lemuren) in den östlichen Feuchtwäldern Madagaskars sollen diese beiden Bedrohungsfaktoren beleuchtet werden. Der Standort gilt als ein Biodiversitätshotspot und ist besonders von Landnutzungs- und Klimawandel bedroht
 
-[![Poster Thema Invasive Pflanzen]({{ site.url }}/assets/images/Poster/Biodiversität.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/Biodiversität.pdf)
+[![Poster Thema Biodiversität]({{ site.url }}/assets/images/Poster/Biodiversität.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/Biodiversität.pdf)
 
 
 #### Fremde Arten, exotische Krankheiten: Wie invasive Tiere neue Gesundheitsrisiken schaffen
