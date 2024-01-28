@@ -7,4 +7,4 @@ links:
     absolute_url: https://www.bund-sh.de/der-bund-sh/landesgeschaeftsstelle/
 ---
 
-Projektleiter Landwärts, BUND 
+Projektleiter [Landwärts](https://www.bund-sh.de/landwaerts/), BUND 

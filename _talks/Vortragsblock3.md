@@ -12,11 +12,18 @@ categories:
 
 Die aktuelle Aussterberate und Anzahl der vom Aussterben bedrohten Arten ist besorgniserregend. Wir befinden uns in einer Biodiversitätskrise, die hauptsächlich durch den menschlichen Landnutzungswandel verursacht wird. Hinzu kommt die Klimakrise, welche in der Zukunft negative Effekte auf die Biodiversität verstärken wird. Anhand der Artengruppe Lemuriformes (Lemuren) in den östlichen Feuchtwäldern Madagaskars sollen diese beiden Bedrohungsfaktoren beleuchtet werden. Der Standort gilt als ein Biodiversitätshotspot und ist besonders von Landnutzungs- und Klimawandel bedroht
 
+[![Poster Thema Biodiversitätsverlust]({{ site.url }}/assets/images/Poster/FINAL-Wirkungen_von_Landnutzungs-_und_Klimawandel_auf_Biodiversitaet_Poster.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Wirkungen_von_Landnutzungs-_und_Klimawandel_auf_Biodiversitaet_Poster.pdf)
+
+
+
 
 #### Fremde Arten, exotische Krankheiten: Wie invasive Tiere neue Gesundheitsrisiken schaffen
 *Svea Timm, Anne Selles*
 
 Invasive Arten sind gebietsfremde Arten, die absichtlich oder unbeabsichtigt in neue Regionen eingeführt werden und dort negative Auswirkungen auf das Ökosystem oder uns Menschen haben. Eine signifikante Gefahr geht von Tieren wie den Waschbären oder der asiatischen Tigermücke aus, da diese als Vektoren für eine Vielzahl von Krankheitserregern fungieren. Um diese Pathogene einzudämmen, ist es entscheidend, effektive Maßnahmen gegen eine weitere Verbreitung in Europa zu ergreifen.
+
+
+[![Poster Thema Invasive Tierarten]({{ site.url }}/assets/images/Poster/FINAL-Invasive_Tiere_Svea_Anne_fertig.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Invasive_Tiere_Svea_Anne_fertig.pdf)
 
 
 #### Von Urbanisierung und Invasion. Konkurrierende Ökosystemleistungen am Beispiel von *Buddleja davidii*

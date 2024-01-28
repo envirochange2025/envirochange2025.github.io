@@ -1,5 +1,5 @@
 ---
-name: Gastvortrag 1
+name: Gastvortrag
 speakers:
   - Merlin Michaelis
 categories:
