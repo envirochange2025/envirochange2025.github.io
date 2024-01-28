@@ -12,9 +12,7 @@ categories:
 
 Die aktuelle Aussterberate und Anzahl der vom Aussterben bedrohten Arten ist besorgniserregend. Wir befinden uns in einer Biodiversitätskrise, die hauptsächlich durch den menschlichen Landnutzungswandel verursacht wird. Hinzu kommt die Klimakrise, welche in der Zukunft negative Effekte auf die Biodiversität verstärken wird. Anhand der Artengruppe Lemuriformes (Lemuren) in den östlichen Feuchtwäldern Madagaskars sollen diese beiden Bedrohungsfaktoren beleuchtet werden. Der Standort gilt als ein Biodiversitätshotspot und ist besonders von Landnutzungs- und Klimawandel bedroht
 
-[![Poster Thema Biodiversitätsverlust]({{ site.url }}/assets/images/Poster/FINAL-Wirkungen_von_Landnutzungs-_und_Klimawandel_auf_Biodiversitaet_Poster.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Wirkungen_von_Landnutzungs-_und_Klimawandel_auf_Biodiversitaet_Poster.pdf)
-
-
+[![Poster Thema Invasive Pflanzen]({{ site.url }}/assets/images/Poster/Biodiversität.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/Biodiversität.pdf)
 
 
 #### Fremde Arten, exotische Krankheiten: Wie invasive Tiere neue Gesundheitsrisiken schaffen
@@ -32,6 +30,6 @@ Invasive Arten sind gebietsfremde Arten, die absichtlich oder unbeabsichtigt in 
 In diesem Beitrag geht es um den Zusammenhang zwischen Landnutzugswandel und Invasion, genauer um invasive Pflanzenarten und Urbanisierung. Wir betrachten das Beispiel des Schmetterlingsflieders (*Buddleja davidii*), einer Art, die von anthropogenen Einfluss profitiert. Gebietsfremde invasive Arten können besonders in Städten bestimmte Ökosystemleistungen erfüllen. Gleichzeitig gefährden sie die Biodiversität und damit andere Ökosystemleistungen. Die Herausforderung für das Management solcher Arten besteht darin, eine Lösung für den Zielkonflikt zwischen verschiedenen konkurrierenden Ökosystemleistungen zu finden. 
 
 
-[![Poster Thema Invasive Pflanzen]({{ site.url }}/assets/images/Poster/Invasive_Pflanzen_Lukas_Leandra_überarbeitet.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/Invasive_Pflanzen_Lukas_Leandra_überarbeitet.pdf)
+[![Poster Thema Invasive Pflanzen]({{ site.url }}/assets/images/Poster/Invasive_Pflanzen.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/Invasive_Pflanzen.pdf)
 
 
