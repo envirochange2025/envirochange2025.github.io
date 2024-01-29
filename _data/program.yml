@@ -22,19 +22,19 @@ days:
         time_end: '12:45'
       - name: Mittagspause
         time_start: '12:45'
-        time_end: '14:00'
-      - name: Gastvortrag 3
-        time_start: '14:00'
-        time_end: '14:45'
+        time_end: '13:30'
+      - name: Gastvortrag
+        time_start: '13:30'
+        time_end: '14:15'
       - name: Lightning Talks - Biodiversität
-        time_start: '14:45'
-        time_end: '15:40'
+        time_start: '14:15'
+        time_end: '15:15'
       - name: Lightning Talks - Klimamobilität und Klimaanpassung
-        time_start: '16:00'
-        time_end: '16:50'
+        time_start: '15:30'
+        time_end: '16:00'
       - name: Schlusswort
-        time_start: '16:50'
-        time_end: '17:00'  
+        time_start: '16:00'
+        time_end: '16:15'  
 
   - name: Foyer
     talks:
