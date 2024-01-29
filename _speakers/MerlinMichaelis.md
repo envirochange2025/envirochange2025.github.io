@@ -7,4 +7,4 @@ links:
     absolute_url: https://www.bund-sh.de/der-bund-sh/landesgeschaeftsstelle/
 ---
 
-Projektleiter [Landwärts](https://www.bund-sh.de/landwaerts/), BUND 
+BUND, Leiter des Projekts [Landwärts](https://www.bund-sh.de/landwaerts/), ein Projekt zum Thema Nachhaltige Entwicklung in ländlichen Räumen.
