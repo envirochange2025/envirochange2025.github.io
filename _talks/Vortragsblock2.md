@@ -21,4 +21,4 @@ In den letzten Jahrzehnten ist in Deutschland ein Anstieg von Waldschäden, insb
 
 Die Waldbrandsaison des Jahres 2023 in Kanada zeigte eine außergewöhnlich große Ausprägung und Zerstörung. Die klimatischen Veränderungen erhöhen zukünftig die Frequenz und Intensität solcher Ereignisse. Des Weiteren spielt das kanadische Brandmanagement eine bedeutende Rolle dabei, wie sich Brände entwickeln. Wie funktioniert das Waldbrandmanagement in Kanada? Welche Strategien und Managementoptionen können zukünftig erneute Brände in der Größenordnung wie im Jahr 2023 verhindern? Kann Feuer paradoxerweise sogar die Lösung dieses Problems darstellen?
 
-[![Poster Thema Waldbrände Kanada]({{ site.url }}/assets/images/Poster/FINAL-Poster_Waldbrände_Kanada_Jule_JohannesvB_fertig.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Poster_Waldbrände_Kanada_Jule_JohannesvB_fertig.pdf)
+[![Poster Thema Waldbrände Kanada]({{ site.url }}/assets/images/Poster/FINAL-Waldbrände_Kanada.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Waldbrände_Kanada.pdf)
