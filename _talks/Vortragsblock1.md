@@ -12,7 +12,8 @@ categories:
 
 Dürren werden in Zukunft durch den Klimawandel häufiger und intensiver auftreten, so auch in Südafrika. Die Auswirkungen der verstärkten Dürren haben weitreichende Konsequenzen für die Landwirtschaft, welche in Südafrika hauptsächlich von Kleinbäuer:innen betrieben wird. Zum Umgang mit den Dürrefolgen haben die Farmer:innen kurzfristige Bewältigungs- sowie mittel- bis langfristige Anpassungsstrategien entwickelt. Die Umsetzung von Maßnahmen wird dabei durch verschiedene Faktoren begünstigt oder gehemmt. 
 
-[![Poster Thema Dürre Südafrika]({{ site.url }}/assets/images/Poster/FINAL-Poster_DürreSüdafrika_Johannes_Helena_fertig.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-Poster_DürreSüdafrika_Johannes_Helena_fertig.pdf)
+
+[![Poster Thema Dürre Südafrika]({{ site.url }}/assets/images/Poster/FINAL-DürreSüdafrika.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-DürreSüdafrika.pdf)
 
 
 #### Europäische Hochwasserereignisse und nachhaltige Hochwasserschutzkonzepte
