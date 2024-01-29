@@ -1,7 +1,7 @@
 ---
-name: Critical Water Management Issues for Small Island Developing Nations
+name: Gastvortrag
 speakers:
-  - Dr. John Rapaglia
+  - Prof. Dr. Tim Diekötter
 categories:
   - Gäste
   - Vortrag
