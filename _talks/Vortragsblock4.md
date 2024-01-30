@@ -25,4 +25,6 @@ Agrophotovoltaik hat als eine innovative Methode der erneuerbaren Energie zwar i
 #### Urbane Grünflächen und ihre Bedeutung für die Optimierung des städtischen Kühleffekts: Ein umfassender Überblick der Strategien
 *Clara Ilsemann, Marek Büchler*
 
+Zu den weltweit spürbaren Auswirkungen des Klimawandels gehört die zunehmende Häufigkeit von Hitzeextremen. Städte sind vermehrt anfällig für nächtliche urbane Wärmeinseln im Sommer, sodass effektive Strategien zur Kühlung urbaner Räume unerlässlich sind. Dabei gelten urbane Grünflächen als entscheidender Faktor. Verschiedene Aspekte wie Größe, Abstand, Geometrie und die interne Gestaltung der Grünflächen beeinflussen ihren Kühleffekt. Es werden verschiedene Studienergebnisse der Optimierungsansätze vorgestellt, um die Kühlwirkung urbaner Grünflächen effizienter zu gestalten.
+
 [![Poster Thema urbane Grünflächen]({{ site.url }}/assets/images/Poster/FINAL-überarbeitet_Städtische_Überwärmung_Urban_green_spaces_Marek_und_Clara_fertig.jpg){: width="250" }]({{ site.url }}/assets/images/Poster/FINAL-überarbeitet_Städtische_Überwärmung_Urban_green_spaces_Marek_und_Clara_fertig.pdf)
