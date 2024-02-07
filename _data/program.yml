@@ -23,7 +23,7 @@ days:
       - name: Mittagspause
         time_start: '12:45'
         time_end: '13:30'
-      - name: Gastvortrag
+      - name: a CONVERSATION about CONSERVATION – the SLOSS debate
         time_start: '13:30'
         time_end: '14:15'
       - name: Lightning Talks - Biodiversität
