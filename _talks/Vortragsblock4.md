@@ -11,7 +11,7 @@ categories:
 #### Out of Afghanistan. Ursachenanalyse für die Klimamobilität Afghanistans
 *Helena Killing*
 
-In diesem Beitrag sollen die Triebkräfte für Klimamobilität Afghanistans erläutert werden. Hierfür werden in der Literatur Ursachen dafür gesucht, und deren Zusammenhänge in einer Grafik dargestellt. Hiermit soll ermittelt werden, welche der Ursachen besonders einflussreich sind. Diese Erkenntnisse sollen dazu beitragen, zukünftige Mobilitätsgeschehen in Afghanistan nachzuvollziehen und eine Grundlage bieten, um passende Mitigations- und Adaptionsstrategien zu entwickeln. Die Ursachenanalyse zeigt, dass der Klimawandel direkt und indirekt Einfluss auf die Bewohner Afghanistans hat, und diese auf vielfältige Art und Weise zu Klimamobilität verleitet.
+In diesem Beitrag sollen die Triebkräfte für Klimamobilität Afghanistans erläutert werden. Hierfür werden in der Literatur Ursachen dafür gesucht, und deren Zusammenhänge in einer Grafik dargestellt. Hiermit soll ermittelt werden, welche der Ursachen besonders einflussreich sind. Diese Erkenntnisse sollen dazu beitragen, zukünftige Mobilitätsgeschehen in Afghanistan nachzuvollziehen und eine Grundlage bieten, um passende Mitigations- und Adaptionsstrategien zu entwickeln. Die Ursachenanalyse zeigt, dass der Klimawandel direkt und indirekt Einfluss auf die Bewohner Afghanistans hat, und diese auf vielfältige Art und Weise zu Klimamobilität verleitet. ...
 
 
 #### Herausforderungen und Potenziale von Agrophotovoltaik in Deutschland
