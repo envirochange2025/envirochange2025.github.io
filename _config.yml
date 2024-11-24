@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EnviroChange2024
+title: EnviroChange2025
 preposition: '-' # Das wird benutzt um automatische Titel für Vorträge mit dem Konferenznamen zu generieren. Also z.B. "Vortrag X von Y [preposition] Envirochange24".
 email: your-email@example.com # TODO
 description: >- # this means to ignore newlines until "baseurl:"
   Bereit für den Wandel?
 
-  Am 9. Februar 2024 wird die 14. EnviroChange stattfinden, für einen spannenden Austausch über Umweltthemen und Klimawandel mit Studierenden und Gästen aus Wissenschaft und Praxis.
+  Am 14. Februar 2025 wird die 15. EnviroChange stattfinden, für einen spannenden Austausch über Umweltthemen und Klimawandel mit Studierenden und Gästen aus Wissenschaft und Praxis.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://envirochange.world" # the base hostname & protocol for your site, e.g. http://example.com
@@ -123,8 +123,10 @@ conference:
         relative_url: /sponsoren/
       - name: Vergangene EnviroChange
         menu:
-          - name: 2024 (current)
+          - name: 2025 (current)
             disabled: true
+          - name: 2024
+            absolute_url: 'https://envirochange2024.github.io'
           - name: 2023
             absolute_url: 'https://www.lgi.geographie.uni-kiel.de/de/lehre/studentische-arbeiten/envirochange2023'
           - name: 2022

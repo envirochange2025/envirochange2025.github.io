@@ -4,22 +4,12 @@ layout: page
 ---
 
 
-Die Inhalte wurden erstellt vom Kurs Umweltsystemanalyse im Studiengang Umweltgeographie und -management (Wintersemester 2023/24).  
-Kontakt: Leandra Kurz  
-Email: mail@envirochange.world  
-
+Die Inhalte wurden erstellt vom Kurs Umweltsystemanalyse im Studiengang Umweltgeographie und -management (Wintersemester 2024/25).  
+Kontakt:  
+Email: 
 
 Verantwortlich:  
-Lehrstuhl für Physische Geographie I   
-Landschaftsökologie und Geoinformation  
-Prof. Dr. Rainer Duttmann  
 
-Ludewig-Meyn-Straße 8  
-24118 Kiel  
-
-Email: duttmann@geographie.uni-kiel.de  
-Tel: +49 431 880 3426  
-Fax: +49 431 880 4898  
 
 
 Urheberrechts- und Haftungshinweise:
