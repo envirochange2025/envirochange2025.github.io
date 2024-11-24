@@ -1,10 +1,10 @@
 ---
-name: Merlin Michaelis
-first_name: Merlin
-last_name: Michaelis
+name: Gast1
+first_name: Gast
+last_name: 1
 links:
-  - name: Projekt
-    absolute_url: https://www.bund-sh.de/der-bund-sh/landesgeschaeftsstelle/
+  - name: 
+    absolute_url: 
 ---
 
-Merlin Michaelis ist Leiter des Projekts [Landwärts](https://www.bund-sh.de/landwaerts/) beim BUND, ein Projekt zum Thema Nachhaltige Entwicklung in ländlichen Räumen.
+Kurzbeschreibung Gast1
