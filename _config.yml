@@ -22,9 +22,9 @@ title: EnviroChange2025
 preposition: '-' # Das wird benutzt um automatische Titel für Vorträge mit dem Konferenznamen zu generieren. Also z.B. "Vortrag X von Y [preposition] Envirochange24".
 email: your-email@example.com # TODO
 description: >- # this means to ignore newlines until "baseurl:"
-  Bereit für den Wandel?
+  
 
-  Am 14. Februar 2025 wird die 15. EnviroChange stattfinden, für einen spannenden Austausch über Umweltthemen und Klimawandel mit Studierenden und Gästen aus Wissenschaft und Praxis.
+...14.Februar 2025...
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://envirochange.world" # the base hostname & protocol for your site, e.g. http://example.com
