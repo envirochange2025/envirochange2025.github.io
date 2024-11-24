@@ -1,10 +1,10 @@
 ---
 name: Schlusswort
 speakers:
-  - Prof. Rainer Duttmann
+  - Gast 5
 categories:
   - Moderation
 ---
 
-Abschluss der Veranstaltung durch Prof. Dr. Rainer Duttmann.
+*Text*
 

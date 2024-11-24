@@ -1,7 +1,7 @@
 ---
-name: a CONVERSATION about CONSERVATION – the SLOSS debate
+name: Vortragstitel 3
 speakers:
-  - Prof. Dr. Tim Diekötter
+  - Gast 3 
 categories:
   - Gäste
   - Vortrag

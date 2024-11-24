@@ -1,5 +1,5 @@
 ---
-name: Gast1
+name: Gast 1
 first_name: Gast
 last_name: 1
 links:
@@ -7,4 +7,4 @@ links:
     absolute_url: 
 ---
 
-Kurzbeschreibung Gast1
+*Kurzbeschreibung Gast 1*

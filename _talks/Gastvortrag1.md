@@ -1,9 +1,12 @@
 ---
-name: Weniger ist mehr - Mit Flächensparen Umwelt & Klima schützen
+name: Vortragstitel1
 speakers:
-  - Merlin Michaelis
+  - Gast 1
 categories:
   - Gäste
   - Vortrag
 ---
 
+*Hier kann ein Beschreibungstext zum Vortrag stehen*
+
+*Titel des Vortrags im Programm -> _data -> program.yml anpassen*

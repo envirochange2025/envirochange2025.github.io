@@ -1,9 +1,10 @@
 ---
-name: Critical Water Management Issues for Small Island Developing Nations
+name: Vortragstitel2
 speakers:
-  - Dr. John Rapaglia
+  - Gast 2
 categories:
   - Gäste
   - Vortrag
 ---
 
+*Hier kann ein Beschreibungstext zum Vortrag stehen*
